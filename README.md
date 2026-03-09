@@ -8,3 +8,4 @@
 streamlit run app.py
 ```
 
+uv add -r requirements.txt
